@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: ../docs
+
+website:
+  title: "VDH Data Clearinghouse Website"
+  description: "Website for VDH Data Clearninghouse"
+  navbar:
+    left:
+      - text: Home
+        href: web/index.qmd
+      - text: About
+        href: web/about.qmd
+      - text: Contact
+        href: web/contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/DSPG-Young-Scholars-Program/dspg24_vdh_data_clearninghouse
+
+format:
+  html:
+    theme: default
+    css: web/styles.css
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    highlight-style: github
+    code-fold: true
+
