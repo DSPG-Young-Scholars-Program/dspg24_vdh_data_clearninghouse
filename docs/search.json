@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "web/index.html",
+    "href": "web/index.html",
+    "title": "Home",
+    "section": "",
+    "text": "1 Welcome to the VDH Data Clearinghouse\nThis is the homepage of the VDH Data Clearinghouse website.\nAbout Us"
+  },
+  {
+    "objectID": "web/about.html",
+    "href": "web/about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 About Us\nInformation about the VDH Data Clearinghouse.\nHome"
+  }
+]
